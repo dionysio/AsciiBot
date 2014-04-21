@@ -1,0 +1,7 @@
+Ghost.py==0.1b3
+PySide==1.2.1
+praw==2.1.15
+pyimgur==0.5.2
+requests==2.2.1
+six==1.6.1
+update-checker==0.9
